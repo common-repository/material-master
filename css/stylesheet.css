@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2015/08/28, 18:47:14
+    Author     : user
+*/
+
+
+dl.material-data {
+    
+}
+
+dl.material-data dt {
+    float: left;
+    clear: both;
+
+    width: 200px;
+    border-top: #fff solid 1px;
+    
+}
+
+
+dl.material-data dd {
+    float:left;
+    border-top: #fff solid 1px;
+}
